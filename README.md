@@ -43,3 +43,14 @@ Execute notebooks in strict order:
 - **Missing Files**: Check `data/raw/`.
 - **Import Errors**: Ensure you define `PROJECT_ROOT` (handled automatically by notebooks).
 - **Environment**: Use `python 3.8+` and `requirements.txt`.
+
+## Key Results Summary
+
+- Successfully engineered technical and derivatives-based features
+- Identified multiple market regimes using HMM
+- Baseline strategy performance shown to be regime-dependent
+- Machine learning enhancement improved signal robustness
+- Outlier analysis highlighted risk-intensive trade periods
+
+## Note: 
+- ML enhancement is demonstrated with a simplified placeholder model for structural validation.
